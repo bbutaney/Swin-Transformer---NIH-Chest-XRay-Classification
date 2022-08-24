@@ -1,5 +1,5 @@
 # Swin-Transformer---NIH-Chest-XRay-Classification
-The two uploaded notebooks were run in Google Colab to train/test a Swin Transformer for image classification on the NIH dataset of ~100k chest x-rays.
+The two uploaded notebooks were run in Google Colab to train/test a Swin Transformer using PyTorch, NumPy, and other python packages. The model is used for image classification on the ~100k image NIH Chest X-ray Dataset.
 
 This is a multiclass, multilabel problem, with images being classified as showing one or more of 15 diseases.
 
